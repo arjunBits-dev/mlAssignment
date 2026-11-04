@@ -1,0 +1,9 @@
+# Pin exact versions after training environment is finalized
+# (version mismatch between training and deployment breaks model loading)
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+joblib
