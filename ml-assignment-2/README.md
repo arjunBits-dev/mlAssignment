@@ -54,7 +54,7 @@ features.
 
 ## c. GitHub Repository Link
 
-> <https://github.com/ADD-YOUR-USERNAME/ADD-YOUR-REPO>  <!-- TODO: replace with your repo URL -->
+> <https://github.com/arjunBits-dev/mlAssignment>
 
 ## d. Models Used
 
@@ -98,7 +98,7 @@ catching real buyers (46.6% recall) and not crying wolf (70.6% precision).
 
 ## Streamlit App
 
-**Live app:** <https://ADD-YOUR-APP.streamlit.app>  <!-- TODO: replace after deployment -->
+**Live app:** <https://mlassignment2-2026aj05425.streamlit.app>
 
 ### Features
 
